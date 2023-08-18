@@ -48,6 +48,7 @@ To install and set up the BIEA Replica project, follow these steps:
 ## Usage
 
 Once you've completed the installation, you can start using the BIEA Replica website to explore research projects, upcoming events, news, and more. Use the intuitive navigation menu to find the sections of interest.
+The user credentials for ./wp-admin are [admin] as username and [password] as the password
 
 ## Contributing
 
